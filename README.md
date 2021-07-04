@@ -25,6 +25,6 @@ Now for contacting or messaging me
 
 1> Go to google account > Security > Less secure app access
 
-2> Turn it on uptill you are done with messaging
+2> Turn it on uptill you are done with messaging and then turn it back off
 
 (Now as you will be done with messaging part make sure to change your password immediately)
